@@ -1,0 +1,30 @@
+{
+  "name": "react-withmousecoords",
+  "version": "0.1.0",
+  "description": "HOC for getting mouse coordinates into a component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://whitelizard@github.com/whitelizard/react-withmousecoords.git"
+  },
+  "keywords": [
+    "react",
+    "mouse",
+    "hoc",
+    "coordinates",
+    "x",
+    "y"
+  ],
+  "author": "Esbjörn Blomquist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whitelizard/react-withmousecoords/issues"
+  },
+  "homepage": "https://github.com/whitelizard/react-withmousecoords#readme",
+  "peerDependencies": {
+    "react": "15.x"
+  }
+}
